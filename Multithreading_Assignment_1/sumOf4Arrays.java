@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Multithreading_Assignment;
+package Multithreading_Assignment_1;
 
 import static java.awt.AWTEventMulticaster.add;
 
